@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">DayKeeper</string>
+    <string name="month_view">Month view</string>
+    <string name="profile">My Profile</string>
+    <string name="all_memories_view">See all memories</string>
+    <string name="search">Search for memories</string>
+
+    <string name="name">Name</string>
+    <string name="statistics">Statistics</string>
+
+    <string name="back">Back</string>
+    <string name="settings">Settings</string>
+    <string name="appearance">Appearance</string>
+    <string name="weather">Weather</string>
+    <string name="about">About the app</string>
+    <string name="help_and_support">Help &amp; Support</string>
+    <string name="listSettings">List Settings</string>
+    <string name="settingWeather">Show weather in list</string>
+    <string name="settingMood">Show mood in list</string>
+    <string name="night_mode">Night mode</string>
+
+    <string name="memory_title">Title</string>
+    <string name="memory_weather">How is the weather today?</string>
+    <string name="memory_mood">How are you feeling today?</string>
+    <string name="memory_text">Tell me about your day!</string>
+    <string name="memory_icon_book">Tell me about your day!</string>
+    <string name="insert_image">Upload Image</string>
+    <string-array name="memory_image_dialog_array">
+        <item name="insert_image_phone">Upload image from phone</item>
+        <item name="insert_image_camera">Take image with camera</item>
+    </string-array>
+
+    <string name="cancel">Cancel</string>
+    <string name="cancelDialog">Do you want to erase this Memory?</string>
+    <string name="cancelDialogMessage">You will lose this days Memory.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="close">Close</string>
+
+    <string name="sort">Sort</string>
+    <string name="sortNewest">Sort by newest first</string>
+    <string name="sortOldest">Sort by oldest first</string>
+    <string name="openDrawer">Open sorting drawer</string>
+    <string name="closerDrawer">Close sorting drawer</string>
+    <string name="memories">Memories</string>
+    <string name="gps_denied">Memories will not have GPS data</string>
+    <string name="error">Something went wrong</string>
+
+    <string name="noResults">No results found</string>
+</resources>
