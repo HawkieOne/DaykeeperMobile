@@ -19,7 +19,8 @@
   <a href="https://hawkie.me"><img alt="Screenshot of app" src="Daykeeper.jpg" /></a>
 </div>
 
-Keep track of your memories
+DayKeeper is an android app for keeping track of what your memories. You can upload photos and notes of what you have done in your life.
+The application can become your personal photo diary. All the photos and notes are stored locally on your phone.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
